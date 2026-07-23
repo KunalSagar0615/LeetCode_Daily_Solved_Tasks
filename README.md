@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3523-make-array-non-decreasing](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3523-make-array-non-decreasing) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3523-make-array-non-decreasing](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3523-make-array-non-decreasing) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -275,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0220-contains-duplicate-iii) |
+## Stack
+|  |
+| ------- |
+| [3523-make-array-non-decreasing](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3523-make-array-non-decreasing) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3523-make-array-non-decreasing](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3523-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
