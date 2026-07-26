@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0728-self-dividing-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3534-path-existence-queries-in-a-graph-ii) |
