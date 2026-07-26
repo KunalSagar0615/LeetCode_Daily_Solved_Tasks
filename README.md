@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0145-binary-tree-postorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/2685-count-the-number-of-complete-components) |
 ## Queue
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0145-binary-tree-postorder-traversal) |
 | [3523-make-array-non-decreasing](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3523-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
@@ -317,8 +319,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
