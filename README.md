@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0202-happy-number) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0065-valid-number](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0065-valid-number) |
 | [0127-word-ladder](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0179-largest-number) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0220-contains-duplicate-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
