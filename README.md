@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0179-largest-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3523-make-array-non-decreasing](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/3523-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Range Minimum/Maximum Query
 |  |
